@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rumah Sakit</string>
+    <!--Login ya mas-->
+    <string name="Login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login_button">LOGIN</string>
+    <!--Aku Admin-->
+    <string name="title_admin">Kitab Suci Admin</string>
+    <string name="menu_manage_staff">Pantau Akun Member</string>
+    <string name="menu_manage_doctors">Kelola Data Dokter</string>
+    <string name="menu_report">Laporan</string>
+    <string name="logout">Logout</string>
+    <string name="home_subtitle">Monggo di Pilih-Pilih</string>
+</resources>
